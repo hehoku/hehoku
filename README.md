@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🎵 Now Playing
+---
+<a href="https://now-playing-hehoku.vercel.app/now-playing?open"><img src="https://now-playing-hehoku.vercel.app/now-playing" width="240" height="64"></a>
+
+
 <!--
 **hehoku/hehoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
