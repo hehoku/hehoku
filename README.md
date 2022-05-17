@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Hehoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=hehoku&show_icons=true&theme=react)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hehoku&theme=react&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 🎵 Now Playing
 ---
