@@ -1,8 +1,9 @@
 ### Hi there 👋
+![Hehoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=hehoku&show_icons=true&theme=react)
 
 🎵 Now Playing
 ---
-<a href="https://now-playing-hehoku.vercel.app/now-playing?open"><img src="https://now-playing-hehoku.vercel.app/now-playing" width="240" height="64"></a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=216nrdlos5dizvf2n7x27dnda&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=216nrdlos5dizvf2n7x27dnda&redirect=true)
 
 
 <!--
